@@ -1,0 +1,17 @@
+.shape {
+  height: 0;
+  width: 0;
+  border-bottom: 36px solid black;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+}
+
+.shape1 {
+    border-top: 36px solid black;
+}
+
+.title {
+    font-size: 24px;
+    color: blue;
+    background-color: black;
+}
